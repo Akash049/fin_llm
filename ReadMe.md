@@ -130,7 +130,7 @@ MIT License — free to use, fork, and extend!
 ### Maintainer
 * Akash Chandra
   * Founder & CEO, InsightAI
-  * LinkedIn: [@akashchandra](https://www.linkedin.com/in/akashchandra/)
+  * LinkedIn: [@akashchandra](https://www.linkedin.com/in/akashchandra049/)
   * Medium: [@akashchandra](@akashchandra733)
 
 
