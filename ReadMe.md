@@ -128,9 +128,9 @@ docker run -p 8501:8501 finllm
 MIT License — free to use, fork, and extend!
 
 ### Maintainer
-Akash Chandra
-Founder & CEO, InsightAI
-Connect on LinkedIn
-
+* Akash Chandra
+  * Founder & CEO, InsightAI
+  * LinkedIn: [@akashchandra](https://www.linkedin.com/in/akashchandra/)
+  * Medium: [@akashchandra](@akashchandra733)
 
 
