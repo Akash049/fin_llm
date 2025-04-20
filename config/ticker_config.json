@@ -1,0 +1,10 @@
+{
+  "sources": [
+    {
+      "name": "AAPL AlphaVantage",
+      "url": "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=AAPL&interval=1min&apikey=${ALPHAVANTAGE_KEY}",
+      "headers": {},
+      "poll_interval": 60
+    }
+  ]
+}

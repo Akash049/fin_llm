@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Price Drop Alert",
+    "condition": "current_price < moving_average_5 * 0.95",
+    "fields": {
+      "current_price": "data['price']",
+      "moving_average_5": "sum(data['history'][-5:]) / 5"
+    },
+    "message_template": "⚠️ Price of {{ticker}} dropped >5% in 5-day window!"
+  },
+  {
+    "name": "Price Above Threshold (Test)",
+    "condition": "current_price > 1100",
+    "fields": {
+      "current_price": "data['price']"
+    },
+    "message_template": "📈 Price of {{ticker}} is above $10 – test alert working!"
+  }
+]

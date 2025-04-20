@@ -1,0 +1,18 @@
+# Core functionality
+requests==2.31.0
+tqdm==4.66.2
+
+# Streamlit UI
+streamlit==1.33.0
+watchdog==6.0.0
+
+# Optional: LLM integration (commented until used)
+openai==1.75.0
+# deepseek-openai==0.1.4  # if using DeepSeek API via OpenAI-compatible endpoints
+
+# Data parsing and formatting
+pandas==2.2.2
+
+# To support any JSON processing or rule evaluation
+python-decouple==3.8
+python-dotenv==1.0.1     # If using .env for API keys
